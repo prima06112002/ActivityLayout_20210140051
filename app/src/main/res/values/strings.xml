@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">prak1</string>
+    <string name="nama">Prima</string>
+    <string name="nomor">08734382124</string>
+    <string name="LoginForm">Login Form</string>
+    <string name="tNama">User Name</string>
+    <string name="tPhone">No HP</string>
+    <string name="Alamat">Alamat</string>
+    <string name="tLogo">Icon Logo</string>
+    <string name="button">Button</string>
+    <string name="bu">Button</string>
+</resources>
